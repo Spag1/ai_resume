@@ -419,27 +419,27 @@ Values read off the open panel for this resume:
 
 “Choose a template.” The current template has a green check. Under the list: a green “Continue editing,” then “Document size” with A4 selected and US Letter beside it, then “Resume language” set to Français.
 
-All 17 were on screen. Order seen:
+All 17 were on screen. The first pass described several thumbnails from a small screenshot and got the column counts wrong. The corrected account is [enhancv-resume-templates.md](enhancv-resume-templates.md), checked against the live gallery and the editor’s own preview files.
 
-| French label | English string | What the thumbnail shows |
+| French label | English string | Columns |
 | --- | --- | --- |
-| Deux colonnes | Double column | Selected. Two columns. This is the layout already on the page. |
-| Harvard | Ivy League | French name for the ivyLeague template. Serif, single column. |
-| Élégant | Elegant | Dark sidebar and a photo. |
-| Crête | Crest | Badged New. |
-| Empreinte | Imprint | Badged New. |
-| Moderne | Modern | Photo, airy single column. |
-| Raffiné | Polished | Teal sidebar. |
-| Contemporain | Contemporary | Single column, small photo. |
-| Créatif | Creative | Dark header band. |
-| Chronologique | Timeline | Dates in a left rail. |
-| Stylé | Stylish | Two columns with a photo. |
-| Une colonne | Single column | Plain single column. |
-| Compact | Compact | Denser single column. |
-| Multicolonne | Multicolumn | A narrow skills rail. |
-| Classique | Classic | Traditional single column. |
-| Performance | High Performer | Single column with accent rules. |
-| Minimal | Minimal | Wide margins and a small graphic. |
+| Deux colonnes | Double column | 2. Selected on the test resume. |
+| Harvard | Ivy League | 1. French label only. |
+| Élégant | Elegant | 2. Dark sidebar on the right. |
+| Crête | Crest | 1. Badged New. |
+| Empreinte | Imprint | 1. Badged New. |
+| Moderne | Modern | 2. Photo in the header. |
+| Raffiné | Polished | 2. Colored sidebar on the left. |
+| Contemporain | Contemporary | 2. Photo in the left rail. |
+| Créatif | Creative | 2. Full-width colored header. |
+| Chronologique | Timeline | 1. Dates in a rail inside the column. |
+| Stylé | Stylish | 2. Narrow column on the left. The official preview has no photo. |
+| Une colonne | Single column | 1. |
+| Compact | Compact | 2. Dense. Not a single column. |
+| Multicolonne | Multicolumn | 3. |
+| Classique | Classic | 1. No icons. |
+| Performance | High Performer | 2. Includes a table. |
+| Minimal | Minimal | 2. Loose spacing. No icons. |
 
 A second template was not applied. Content surviving a switch is what the template screen itself says (“you can always change it later”) and what the product copy says. It was not re-tested by clicking another thumbnail in this session.
 
