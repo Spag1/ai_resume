@@ -14,6 +14,8 @@ A4 and US Letter are not part of a template. They sit under the picker. The sign
 
 The numbers required to rebuild a template — page size, the factory color pair, font families, name and section sizes, column widths, and line height — are in [enhancv-template-reproduction.md](enhancv-template-reproduction.md).
 
+The copy-paste prompt that tells a model to draw the 17 pages as filled CVs, with Enhancv’s own sample people and with the colored band or sidebar running to the edge of the page, is [enhancv-cv-build-prompt.md](enhancv-cv-build-prompt.md).
+
 ## How a template is built
 
 The editor assigns a column count from the template id:
