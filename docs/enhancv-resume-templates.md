@@ -12,6 +12,8 @@ Three sources are kept separate below.
 
 A4 and US Letter are not part of a template. They sit under the picker. The signed-in session had A4 selected.
 
+The numbers required to rebuild a template — page size, the factory color pair, font families, name and section sizes, column widths, and line height — are in [enhancv-template-reproduction.md](enhancv-template-reproduction.md).
+
 ## How a template is built
 
 The editor assigns a column count from the template id:
